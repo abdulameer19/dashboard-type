@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Queries fetches list of sales 1`] = `
+{
+  "errors": [
+    [GraphQLError: Cannot query field "sales" on type "Query".],
+  ],
+}
+`;
